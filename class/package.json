@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "http://qiita.com/hkusu/items/9b312274b3ff2913e15b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.0"
+  }
+}
