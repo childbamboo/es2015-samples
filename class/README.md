@@ -1,6 +1,6 @@
 ## Documentation
 * https://github.com/babel/gulp-babel
-* http://qiita.com/hkusu/items/9b312274b3ff2913e15b
+* http://techlife.cookpad.com/entry/2015/02/02/094607
 
 ## How to setup
 ```
